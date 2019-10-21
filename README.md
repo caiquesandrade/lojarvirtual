@@ -1,25 +1,68 @@
-# Loja Virtual (REACT + REDUX)
-Loja virtual com REAC + REDUX aplicando conceitos básicos de REDUX.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-___
+## Available Scripts
 
+In the project directory, you can run:
 
-Uma forma simples de exemplificar o funcionamento do **Redux + React**.
+### `npm start`
 
-Na aplicação fazemos a listagem de produtos, também tem os produtos individuais que conseguimos adicionar o produto no estado global da aplicação "carrinho de compra".
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Conseguimos dessa forma utilizar os recursos primordiais do Redux que são as Actions, Reducers e a store.
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-O estado global do app é em tempo de execução, ou seja, quando atualizado as informações do carrinho de compra somem, mas enquanto o usuario está usando, ela é armazenada.
+### `npm test`
 
-**Conclusão**: Com isso consegui abranger e estudar os conceitos principais para conseguir utilizar o Redux para desenvolvimentop de aplicações ou outras plataformas.
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### Como executar o projeto ?
+### `npm run build`
 
->Necessário ter o NPM e React
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-1.  Fazer o clone do repositório.
-2.  No seu terminal, ir até a pasta raiz do projeto e executar o :
-    - ```npm start```
-3.  Pronto, o servidor do react vai rodar o projeto.
-4.  Caso não tenha o REACT [clique aqui](https://www.devmedia.com.br/como-instalar-o-node-js-npm-e-o-react-no-windows/40329)
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+
+### Analyzing the Bundle Size
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `npm run build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify

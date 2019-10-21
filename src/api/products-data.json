@@ -1,0 +1,50 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Câmera Gopro Hero7 Black Oficial Br + Cartão Sandisk Extreme",
+            "image": "cmera-gopro-hero7.webp",
+            "price": 2299.99,
+            "description": "Olá prezado cliente! Seja bem vindo! Nós somos a Quality SP e desde o início do ano 2000 vendemos aqui no Mercado Livre, e isso nos tornou diferentes!"
+        },
+        {
+            "id": 2,
+            "name": "Drone Zangão Dobrável Wifi Sensor De Gravidade Câmera X39c",
+            "image": "drone-zango.webp",
+            "price": 268.79,
+            "description": "Desperte o aventureiro que há em você com o Drone X39C Dobrável. Com muito mais inovação e novidades tecnológicas, o drone possui sistema de transmissão de imagens em tempo real WIFI para gravação de vídeo/imagem fantástica."
+        },
+        {
+            "id": 3,
+            "name": "Novo Kindle Paperwhite 8gb",
+            "image": "novo-kindle.webp",
+            "price": 476.54,
+            "description": "Novo Kindle paperWhite, mais fino, mais leve e agora à prova d'água. O mais leve e fino PPW já lançado, com 182g. Nosso mais fino e leve Kindle Paperwhite já lançado, com um design elegante e moderno para que você possa ler confortavelmente por horas. Apresenta nossa característica tela antirreflexo de 300 ppi, com texto hipernítido e duas vezes mais espaço de armazenamento que a geração anterior. E mais, uma recarga dura semanas, não horas."
+        },
+        {
+            "id": 4,
+            "name": "Ps4 Slim 1tb Hdr Playstation 4 (3jogos+psn)-envio Imediato!",
+            "image": "ps4-slim-1tb.webp",
+            "price": 2000,
+            "description": "A Caique Games, está no mercado livre comprometida com os seus clientes, trabalhando com transparência e preço justo! Todos nossos produtos são novos e originais, lacrados de fábrica, com garantia de fábrica e 90 dias por nós."
+        },
+        {
+            "id": 5,
+            "name": "Xbox 360 Slim + Kinect + Jogo Adventures",
+            "image": "xbox-360-slim.webp",
+            "price": 749,
+            "description": "O console Xbox 360 4GB, está pronto com um novo acabamento. Com Wi-fi embutido para fácil conexão com o mundo do entretenimento no Xbox Live, onde os filmes em HD e seus jogos ficam muito mais divertidos."
+        },
+        {
+            "id": 6,
+            "name": "Xiaomi Mi A3 Mia3 4/64gb Ram Global 48mp Lacrado + Brinde",
+            "image": "xiaomi-mi-a3.webp",
+            "price": 1289,
+            "description": "O Xiaomi Mi A3 é um smartphone Android de bom nível, ótimo para fotos, que pode satisfazer até o mais exigente dos usuários. Tem uma enorme tela Touchscreen de 6.08 polegadas com uma resolução de 1560x720 pixel que não é das mais elevadas. Sobre as características deste Xiaomi Mi A3 na verdade não falta nada. Começando pelo LTE 4G que permite a transferência de dados e excelente navegação na internet, além de conectividade Wi-fi e GPS."
+        }
+    ]
+
+
+  
+
+  }
