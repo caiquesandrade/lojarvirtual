@@ -16,9 +16,10 @@ O estado global do app é em tempo de execução, ou seja, quando atualizado as 
 
 ### Como executar o projeto ?
 
->Necessário ter o React Instalado
+>Necessário ter o NPM e React
 
 1.  Fazer o clone do repositório.
 2.  No seu terminal, ir até a pasta raiz do projeto e executar o :
     - ```npm start```
 3.  Pronto, o servidor do react vai rodar o projeto.
+4.  Caso não tenha o REACT [clique aqui](https://www.devmedia.com.br/como-instalar-o-node-js-npm-e-o-react-no-windows/40329)
