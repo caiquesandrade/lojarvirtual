@@ -1,12 +1,14 @@
-Uma forma simples de exemplificar o funcionamento do *Redux + React*.
+Uma forma simples de exemplificar o funcionamento do **Redux + React**.
 
 Na aplicação fazemos a listagem de produtos, também tem os produtos individuais que conseguimos adicionar o produto no estado global da aplicação "carrinho de compra".
 
-Conseguimos dessa forma utilizar os recursos primordiais do Redux que são as Actions, Reducers e a store.
+Conseguimos dessa forma utilizar os recursos primordiais do Redux que são as **Actions, Reducers e a store**.
 
 O estado global do app é em tempo de execução, ou seja, quando atualizado as informações do carrinho de compra somem, mas enquanto o usuario está usando, ela é armazenada.
 
-Conclusão: Com isso consegui abranger e estudar os conceitos principais para conseguir utilizar o Redux para desenvolvimentop de aplicações ou outras plataformas.
+**Conclusão**: Com isso consegui abranger e estudar os conceitos principais para conseguir utilizar o Redux para desenvolvimentop de aplicações ou outras plataformas.
+
+___
 
 ## Available Scripts
 
